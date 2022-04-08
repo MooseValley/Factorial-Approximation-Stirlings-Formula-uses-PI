@@ -1,0 +1,31 @@
+Big Factorials - Stirlings Approximation - Numberphile
+
+
+https://www.youtube.com/watch?v=6ofIBoWGc7k
+Big Factorials - Numberphile
+54,161 views
+Mar 25, 2022
+Large factorials and the use of Stirling's Approximation. Featuring Professor Ken McLaughlin.
+
+
+      infinity
+N! = Integral  X^N e^-X dx
+      x = 0
+
+Stirlings Approximation
+N! ~ N^N e^-N SQRT(N) SQRT(2Pi)
+
+N! / Stirlings  --> 0 as N approaches infinity.
+
+Accuracy increases for large N.
+
+The difference between N! and Stirlings increases as N increases.
+But the ratio - the error - decreases.
+
+Much easier / quicker to calculate Stirlings Approximation for large N
+than it is to calcuate the exact N! using big integers.
+
+
+Levent
+For those we are still confused about the part where their ratio gets closer to one while their difference increases, think about it like this: 1 and 2 have a ratio of 0.5 and a difference of one. 900 and 1000 have a ratio of 0.9, which is closer to 1, but a difference of 100, which is much larger.
+
